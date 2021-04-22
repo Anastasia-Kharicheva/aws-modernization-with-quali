@@ -8,3 +8,4 @@ weight: 1
 The problem is that __expertise is a bottleneck__: cloud experts are in high demand, but not all developers are cloud developers. This creates islands of automation with inconsistencies across the organization. It also results in insufficient guardrails around security/compliance and cost.
 
  ![10_page](/images/intro/Intro_Pg10.png)
+test
