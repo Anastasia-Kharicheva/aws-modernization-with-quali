@@ -21,3 +21,4 @@ __Note__: This blueprint assumes you have permissions to deploy in the "eu-west-
 ![45_page](/images/module1/45_page.png)
 
 Your blueprint will now automatically be synchronized to CloudShell Colony and available for deployment.
+gh
