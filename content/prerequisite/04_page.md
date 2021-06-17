@@ -5,7 +5,7 @@ weight: 06
 draft: false
 ---
 
-Follow these steps to link your AWS account to Torque:
+Follow these steps to link your AWS account to Torque.
 
 1. Click the __aws__ tile and select __Amazon EC2__.
 
