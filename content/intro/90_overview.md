@@ -10,7 +10,7 @@ weight: 9
 
 * __Module 2__: As a developer, you will deploy the sandbox that the DevOps engineer created for you to test the latest version of your code.
 
-* __Module 3__: You will use Jenkins to automatically deploy your application environment from the blueprint catalog using the Colony REST API.
+* __Module 3__: You will use Jenkins to automatically deploy your application environment from the blueprint catalog using the Torque REST API.
 
 * __Module 4__: As a DevOps engineer, you will use the latest AWS DocumentDB service for your application blueprint.
 
