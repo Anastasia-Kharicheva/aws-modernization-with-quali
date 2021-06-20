@@ -1,11 +1,11 @@
 ---
-title: "Deploy Jenkins Sandbox in Colony"
+title: "Deploy Jenkins Sandbox in Torque"
 date: 2020-10-16T14:20:28+03:00
 weight: 32
 draft: false
 ---
 
-1\. In Colony, navigate to the **Sandbox Environments** page, make sure you are in the **Ops-Tools** space,  and then click **New Sandbox"**
+1\. In Torque, navigate to the **Sandbox Environments** page, make sure you are in the **Ops-Tools** space,  and then click **New Sandbox"**
 ![32_page](/images/module3/32_page_2.png)
 
 2\. Select the Jenkins blueprint and click **Next**
@@ -28,5 +28,5 @@ draft: false
 
 ![32_page](/images/module3/36_page.png)
 
-Congratulations! You've now automatically deployed an instance of Jenkins that can launch any blueprint configured in Colony! 
-As the Ops team manager of Gourmet Inc, you may also use CloudShell Colony to manage the new releases of the Jenkins platform as they become available.
+Congratulations! You've now automatically deployed an instance of Jenkins that can launch any blueprint configured in Torque! 
+As the Ops team manager of Gourmet Inc, you may also use Torque to manage the new releases of the Jenkins platform as they become available.
