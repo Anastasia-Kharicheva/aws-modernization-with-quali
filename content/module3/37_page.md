@@ -12,7 +12,7 @@ Log in to the Jenkins server that you just deployed (use the default "admin" pas
 1. Retrieve the latest code of the promotions-manager app from GitHub.
 2. Build the artifact package (latest build).
 3. Upload the artifact to the S3 repository.
-4. Deploy the promotion application to AWS in a Colony Sandbox.
+4. Deploy the promotion application to AWS in a Torque Sandbox.
 5. Run tests.
 6. Terminate the promotion application.
 
