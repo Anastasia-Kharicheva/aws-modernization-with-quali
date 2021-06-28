@@ -11,7 +11,7 @@ chapter = true
 
 2\. Create your [Torque Account](https://app.cloudshellony.com/sign_up)
 
-![80_page](/images/intro/colony_logo.png)
+![80_page](/images/intro/torque_logo.png)
 
 3\. Link your AWS cloud account to Torque.
 
