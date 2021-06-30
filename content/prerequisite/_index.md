@@ -9,7 +9,7 @@ chapter = true
 
 ![80_page](/images/intro/aws_logo.png)
 
-2\. Create your [Torque Account](https://app.cloudshellony.com/sign_up)
+2\. Create your [Torque Free Account](https://app.cloudshellony.com/sign_up)
 
 ![80_page](/images/intro/torque_logo.png)
 
