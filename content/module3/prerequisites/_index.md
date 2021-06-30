@@ -3,7 +3,7 @@ title: "Prerequisites"
 date: 2020-10-29T09:44:46+02:00
 weight: 1
 ---
-### As a member of the Ops platform tools team at Gourmet Inc, you will automatically deploy and configure Jenkins using CloudShell Torque.
+### As a member of the Ops platform tools team at Gourmet Inc, you will automatically deploy and configure Jenkins using Torque.
 
 ---
 **NOTE:** This step would typically be performed ahead of time. Torque can be used to deploy platform tools and keep them up-to-date with the latest version.\\
