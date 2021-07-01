@@ -21,3 +21,4 @@ Your new sandbox is being deployed on AWS. Note that this sample sandbox is depl
 Note: You will __not__ use this sandbox for the rest of the workshop.
  ![06_page](/images/prerequisite/application_tab.png)
  
+shira
