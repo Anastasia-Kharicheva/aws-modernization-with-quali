@@ -30,3 +30,4 @@ Follow these steps to link your AWS account to Torque.
  ![04_page](/images/prerequisite/11_page.png)
  ![04_page](/images/prerequisite/12_page.png)
  
+ Shira
