@@ -21,7 +21,7 @@ In the next steps, you will create an S3 role that will give Jenkins permission 
 
 6\. Upload __s3_bucket_access.template__ from the __/jenkins__ directory of the workshop's repo you created in Module 1.
 You may select the file from your local clone of the workshop's Git repo, or use the URL of that file in the original repo:
-https://raw.githubusercontent.com/QualiSystemsLab/aws-workshop-colony/master/jenkins/s3_bucket_access.template
+https://github.com/QualiSystemsLab/aws-workshop-torque/blob/master/jenkins/s3_bucket_access.template
 
 ![27_page](/images/module3/28_page.png)
 
