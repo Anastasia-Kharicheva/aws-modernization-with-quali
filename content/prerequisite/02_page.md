@@ -1,5 +1,5 @@
 ---
-title: "Sign up for a Torque trial account"
+title: "Sign up for a Torque free account"
 date: 2020-10-16T10:35:57+03:00
 weight: 04
 draft: false
