@@ -9,7 +9,7 @@ From the Torque sandbox, check that the service created from the Terraform modul
 
 1\. Navigate to the infrastructure tab.
 ![17_page](/images/module4/16_page.png)
-2\. Logon to the AWS console and navigate to the DocumentDB service. 
+2\. Login to the AWS console and navigate to the DocumentDB service. 
 ![17_page](/images/module4/17_page.png)
 3\. Check the tags of the cluster that link back to the Torque context.
 ![17_page](/images/module4/18_page.png)
