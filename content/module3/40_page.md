@@ -1,5 +1,5 @@
 ---
-title: "Check how the Jenkins pipeline script calls the CloudShell Torque API"
+title: "Check how the Jenkins pipeline script calls the Torque API"
 date: 2020-10-16T14:20:29+03:00
 weight: 40
 draft: false
