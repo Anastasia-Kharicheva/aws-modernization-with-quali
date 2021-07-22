@@ -21,4 +21,6 @@ weight: 7
 
 5\. You can browse the promotion app blueprints from the catalog.
 
+Don't worry about the red error marks, we'll fix them in the next stages.
+
 ![07_page](/images/module1/catalog.png)
