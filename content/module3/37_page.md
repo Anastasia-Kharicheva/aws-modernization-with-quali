@@ -4,7 +4,7 @@ date: 2020-10-16T14:20:29+03:00
 weight: 37
 draft: false
 ---
-Log in to the Jenkins server that you just deployed (use the default "admin" password if you did not change it in the sandbox parameter)
+Log in to the Jenkins server that you just deployed (use the default user "admin" and password "admin" if you did not change it in the sandbox parameter)
  ![37_page](/images/module3/37_page.png)
  
 #### The default pipeline loaded with this Jenkins instance will automatically run the following steps:
