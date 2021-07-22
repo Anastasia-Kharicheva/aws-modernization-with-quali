@@ -13,7 +13,7 @@ draft: false
 
 3\. Enter the required parameters:
 * Sandbox Name: Jenkins_CI
-* CS_COLONY_TOKEN: Use the Jenkins token created in a previous steps
+* CS_TORQUE_TOKEN: Use the Jenkins token created in a previous steps
 * SPACE_NAME: Trial
 * AIM_ROLE: Set the value of the IAMRoleInstanceProfile key provided earlier by AWS
 * BUCKET_NAME: Use the S3 bucket name you created
