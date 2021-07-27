@@ -9,3 +9,5 @@ weight: 4
 * How to __increase your developer's productivity__ with self-service and DevOps ready integrations.
 
 * How to __control your cloud costs__ through automation.
+
+ ![40_page](/images/intro/graduate.png)
